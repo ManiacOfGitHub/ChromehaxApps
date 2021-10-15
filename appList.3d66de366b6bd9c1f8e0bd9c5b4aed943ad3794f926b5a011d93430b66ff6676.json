@@ -5,7 +5,8 @@
       "description": "A browser that gets around the web restrictions set by forced chrome extensions.",
       "icon": "CWBv100/icon.png",
       "iconType": "file",
-      "minVersion": "1.1.0"
+      "minVersion": "1.1.0",
+      "location": "CWBv100/[id].zip"
     }
   ]
 }
